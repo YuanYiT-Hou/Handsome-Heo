@@ -1,6 +1,7 @@
 ## Handsome-Heo
 为Typecho Handsome主题添加Heo表情包
-个人博客：https://flytusky.top/，欢迎交换友链
+个人博客：https://flytusky.top/
+欢迎交换友链
 ## Sticker-Heo表情包 ##
 Sticker-Heo表情包是[张洪Heo][1]创作的通用基础表情
 表情预览：
