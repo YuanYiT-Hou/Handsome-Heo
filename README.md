@@ -4,11 +4,11 @@
 ## Sticker-Heo表情包 ##
 Sticker-Heo表情包是[张洪Heo][1]创作的通用基础表情
 表情预览：
-[album]
+
 ![][2]
 ![][3]
 ![][4]
-[/album]
+
 充满了滑稽的形象~
 更多可参考此文章：https://blog.zhheo.com/p/2daa6a7b.html
 
