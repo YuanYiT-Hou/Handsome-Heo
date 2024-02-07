@@ -5,17 +5,15 @@
 ## Sticker-Heo表情包 ##
 Sticker-Heo表情包是[张洪Heo][1]创作的通用基础表情
 表情预览：
-
 ![][2]
-![][3]
-![][4]
+
 
 充满了滑稽的形象~
 更多可参考此文章：https://blog.zhheo.com/p/2daa6a7b.html
 
 ## Handsome主题使用指南 ##
 做好相关的备份操作后，
-前往[我的项目地址][5]下载所需要的文件（Heo目录和OwO.json文件），
+前往[我的项目地址][3]下载所需要的文件（Heo目录和OwO.json文件），
 
 将Heo文件夹放于handsome主题`usr/img/emotion/`目录下
 
@@ -39,12 +37,10 @@ Sticker-Heo表情包是[张洪Heo][1]创作的通用基础表情
     }
 
 ## 成果演示 ##
-![][6]
+![][4]
 喜欢的话可以点个star~：https://github.com/YuanYiT-Hou/Handsome-Heo
 
   [1]: https://blog.zhheo.com/
-  [2]: https://github.com/zhheo/Sticker-Heo/raw/main/img/v1/%E5%B0%81%E9%9D%A2.png
-  [3]: https://github.com/zhheo/Sticker-Heo/raw/main/img/v1/%E8%A1%A8%E6%83%85%E9%A2%84%E8%A7%88.png
-  [4]: https://github.com/zhheo/Sticker-Heo/raw/main/img/v1/%E6%8E%88%E6%9D%83%E6%96%B9%E5%BC%8F%E4%B8%8E%E5%AE%9A%E4%BB%B7.png
-  [5]: https://github.com/YuanYiT-Hou/Handsome-Heo
-  [6]: https://cdn.flytusky.top/typecho/uploads/2024/02/673044735.png
+  [2]: https://github.com/zhheo/Sticker-Heo/raw/main/img/v1/%E8%A1%A8%E6%83%85%E9%A2%84%E8%A7%88.png
+  [3]: https://github.com/YuanYiT-Hou/Handsome-Heo
+  [4]: https://cdn.flytusky.top/typecho/uploads/2024/02/673044735.png
